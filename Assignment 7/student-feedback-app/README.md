@@ -88,7 +88,7 @@ ProblemSolutionCSS not workingRun npm install in frontend and restart npm run de
 MethodEndpointDescriptionGET/api/feedbacksGet all feedbacksPOST/api/feedbacksSubmit new feedback
 
  # 👨‍💻 Author : 
-Pritesh Bagul 
+Prathmesh mane
 Full Stack Development Project
 
 Made with ❤️ using React, Express & MongoDB
